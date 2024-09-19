@@ -2,7 +2,7 @@
 
 - :information_source: 2000/男.
 - :email: 电子邮箱：1215076525@qq.com.
-- :pencil2: Java开发工程师.
+- :pencil2: 软件开发工程师.
 - 💬 一个热爱编程的社畜.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hejunting00&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
